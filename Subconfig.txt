@@ -1,6 +1,6 @@
 //profile-title: base64:2b7Ys9ixINmF2YfYsdio2KfZhiDinaTwn6SN8J+SmiBHX1Bpbmdv
 //profile-update-interval: 1
-//subscription-userinfo: upload=0; download=1048576; total=107374182400; expire=1739660055000
+//subscription-userinfo: upload=0; download=1048576; total=107374182400; expire=1739660055
 #profile-web-page-url: @kakagorbe
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook - S1
