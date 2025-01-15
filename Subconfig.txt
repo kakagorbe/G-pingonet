@@ -1,6 +1,7 @@
-//profile-title: Base64:8J+UlPCf8J+YgPCf8J+RjPCf8J+dsf8J+coPCf8J+VqPCf8J+Pjw==
+//profile-title: base64:8J+UlPCf8J+YgPCf8J+RjPCf8J+dsf8J+coPCf8J+VqPCf8J+Pjw==
 //profile-update-interval: 1
-//subscription-userinfo: upload=5368709120; download=4294967296; total=1073741824000; expire=1771510787
+//subscription-userinfo: upload=5368709120; download=4294967296; total=1073741824000; expire=1
+1768917887
 #profile-web-page-url: @kakagorbe
 
 ShadowSocks:
